@@ -1,4 +1,15 @@
-### Hi there 👋
+### Hi there 👋 Thanks for dropping by
+
+* 🧍🏽‍♂️ Ahmed Sakr (He/Him)
+* 👨‍💻 Full Stack Developer at Wealthsimple (Trade app)
+* 🔭 Main Interests:
+  - 📈 Fintech
+  - 🧰 Tools / Data Visualizations
+  - 🔌 Systems programming (Rust, C)
+* 👁️‍🗨️ Side Interests:
+  - 🌎 Philosophy (Political/Ethical)
+
+**Connect with me**: [https://linkedin.com/in/ahmedjsakr](https://linkedin.com/in/ahmedjsakr) 
 
 <!--
 **ahmedsakr/ahmedsakr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
